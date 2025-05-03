@@ -1,6 +1,6 @@
 # Guess-the-Capital-
 
-![Game Screenshot](./images/guess the capital.png)
+![Game Screenshot](./images/guess-the-capital.png)
 
 This is a Quiz Game called **Guess the Capital**. The application tests your knowledge of world capitals by presenting you with a country and multiple-choice options for its capital. Your goal is to select the correct capital from the given options.
 
